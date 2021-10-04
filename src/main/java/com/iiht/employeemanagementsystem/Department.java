@@ -1,5 +1,5 @@
 package com.iiht.employeemanagementsystem;
 
-public class EmployeeRepository {
+public class Department {
 
 }
