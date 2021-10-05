@@ -1,4 +1,4 @@
-package com.iiht.employeemanagementsystem;
+package com.iiht.employeemanagementsystem.model;
 
 import java.time.LocalDate;
 
